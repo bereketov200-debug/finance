@@ -1,0 +1,362 @@
+[
+  {
+    "month": "2026-02",
+    "category": "Food",
+    "limit": "85000.00"
+  },
+  {
+    "month": "2026-02",
+    "category": "Transportation",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-02",
+    "category": "Shopping",
+    "limit": "74000.00"
+  },
+  {
+    "month": "2026-02",
+    "category": "Education",
+    "limit": "90000.00"
+  },
+  {
+    "month": "2026-02",
+    "category": "Entertainment",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-02",
+    "category": "Utilities",
+    "limit": "48000.00"
+  },
+  {
+    "month": "2026-02",
+    "category": "Healthcare",
+    "limit": "36000.00"
+  },
+  {
+    "month": "2026-02",
+    "category": "Other",
+    "limit": "22000.00"
+  },
+  {
+    "month": "2026-03",
+    "category": "Food",
+    "limit": "85000.00"
+  },
+  {
+    "month": "2026-03",
+    "category": "Transportation",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-03",
+    "category": "Shopping",
+    "limit": "74000.00"
+  },
+  {
+    "month": "2026-03",
+    "category": "Education",
+    "limit": "90000.00"
+  },
+  {
+    "month": "2026-03",
+    "category": "Entertainment",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-03",
+    "category": "Utilities",
+    "limit": "48000.00"
+  },
+  {
+    "month": "2026-03",
+    "category": "Healthcare",
+    "limit": "36000.00"
+  },
+  {
+    "month": "2026-03",
+    "category": "Other",
+    "limit": "22000.00"
+  },
+  {
+    "month": "2026-04",
+    "category": "Food",
+    "limit": "85000.00"
+  },
+  {
+    "month": "2026-04",
+    "category": "Transportation",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-04",
+    "category": "Shopping",
+    "limit": "74000.00"
+  },
+  {
+    "month": "2026-04",
+    "category": "Education",
+    "limit": "90000.00"
+  },
+  {
+    "month": "2026-04",
+    "category": "Entertainment",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-04",
+    "category": "Utilities",
+    "limit": "48000.00"
+  },
+  {
+    "month": "2026-04",
+    "category": "Healthcare",
+    "limit": "36000.00"
+  },
+  {
+    "month": "2026-04",
+    "category": "Other",
+    "limit": "22000.00"
+  },
+  {
+    "month": "2026-05",
+    "category": "Food",
+    "limit": "85000.00"
+  },
+  {
+    "month": "2026-05",
+    "category": "Transportation",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-05",
+    "category": "Shopping",
+    "limit": "74000.00"
+  },
+  {
+    "month": "2026-05",
+    "category": "Education",
+    "limit": "90000.00"
+  },
+  {
+    "month": "2026-05",
+    "category": "Entertainment",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-05",
+    "category": "Utilities",
+    "limit": "48000.00"
+  },
+  {
+    "month": "2026-05",
+    "category": "Healthcare",
+    "limit": "36000.00"
+  },
+  {
+    "month": "2026-05",
+    "category": "Other",
+    "limit": "22000.00"
+  },
+  {
+    "month": "2026-06",
+    "category": "Food",
+    "limit": "85000.00"
+  },
+  {
+    "month": "2026-06",
+    "category": "Transportation",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-06",
+    "category": "Shopping",
+    "limit": "74000.00"
+  },
+  {
+    "month": "2026-06",
+    "category": "Education",
+    "limit": "90000.00"
+  },
+  {
+    "month": "2026-06",
+    "category": "Entertainment",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-06",
+    "category": "Utilities",
+    "limit": "48000.00"
+  },
+  {
+    "month": "2026-06",
+    "category": "Healthcare",
+    "limit": "36000.00"
+  },
+  {
+    "month": "2026-06",
+    "category": "Other",
+    "limit": "22000.00"
+  },
+  {
+    "month": "2026-07",
+    "category": "Food",
+    "limit": "85000.00"
+  },
+  {
+    "month": "2026-07",
+    "category": "Transportation",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-07",
+    "category": "Shopping",
+    "limit": "74000.00"
+  },
+  {
+    "month": "2026-07",
+    "category": "Education",
+    "limit": "90000.00"
+  },
+  {
+    "month": "2026-07",
+    "category": "Entertainment",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-07",
+    "category": "Utilities",
+    "limit": "48000.00"
+  },
+  {
+    "month": "2026-07",
+    "category": "Healthcare",
+    "limit": "36000.00"
+  },
+  {
+    "month": "2026-07",
+    "category": "Other",
+    "limit": "22000.00"
+  },
+  {
+    "month": "2026-08",
+    "category": "Food",
+    "limit": "85000.00"
+  },
+  {
+    "month": "2026-08",
+    "category": "Transportation",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-08",
+    "category": "Shopping",
+    "limit": "74000.00"
+  },
+  {
+    "month": "2026-08",
+    "category": "Education",
+    "limit": "90000.00"
+  },
+  {
+    "month": "2026-08",
+    "category": "Entertainment",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-08",
+    "category": "Utilities",
+    "limit": "48000.00"
+  },
+  {
+    "month": "2026-08",
+    "category": "Healthcare",
+    "limit": "36000.00"
+  },
+  {
+    "month": "2026-08",
+    "category": "Other",
+    "limit": "22000.00"
+  },
+  {
+    "month": "2026-09",
+    "category": "Food",
+    "limit": "85000.00"
+  },
+  {
+    "month": "2026-09",
+    "category": "Transportation",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-09",
+    "category": "Shopping",
+    "limit": "74000.00"
+  },
+  {
+    "month": "2026-09",
+    "category": "Education",
+    "limit": "90000.00"
+  },
+  {
+    "month": "2026-09",
+    "category": "Entertainment",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-09",
+    "category": "Utilities",
+    "limit": "48000.00"
+  },
+  {
+    "month": "2026-09",
+    "category": "Healthcare",
+    "limit": "36000.00"
+  },
+  {
+    "month": "2026-09",
+    "category": "Other",
+    "limit": "22000.00"
+  },
+  {
+    "month": "2026-10",
+    "category": "Food",
+    "limit": "85000.00"
+  },
+  {
+    "month": "2026-10",
+    "category": "Transportation",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-10",
+    "category": "Shopping",
+    "limit": "74000.00"
+  },
+  {
+    "month": "2026-10",
+    "category": "Education",
+    "limit": "90000.00"
+  },
+  {
+    "month": "2026-10",
+    "category": "Entertainment",
+    "limit": "39000.00"
+  },
+  {
+    "month": "2026-10",
+    "category": "Utilities",
+    "limit": "48000.00"
+  },
+  {
+    "month": "2026-10",
+    "category": "Healthcare",
+    "limit": "36000.00"
+  },
+  {
+    "month": "2026-10",
+    "category": "Other",
+    "limit": "22000.00"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "currency": "KZT",
+  "period": "All records",
+  "sensitivity": "Standard",
+  "large_threshold": "300000.00",
+  "receipt_minimum": "5000.00",
+  "unusual_minimum": "20000.00",
+  "history_count": 5,
+  "unusual_multiplier": "3.00",
+  "split_days": 2,
+  "split_count": 3,
+  "split_min_share": 15,
+  "frequency_days": 3,
+  "frequency_count": 6,
+  "frequency_history_weeks": 4
+}
